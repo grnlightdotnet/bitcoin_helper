@@ -84,7 +84,7 @@ class bitcoin_helper
 	{
 		$cache_filename = "bitcoin_weighted_prices.json";
 		//if (!is_writable($cache_filename)) return -4;
-		if (file_exists($cache_filename) && filemtime($cache_filename)>=strtotime("-1 hour"))
+		if (file_exists($cache_filename) && filemtime($cache_filename)>=strtotime("-30 minutes"))
 		{
 			$content = file_get_contents($cache_filename);
 		}
