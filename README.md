@@ -1,11 +1,15 @@
-// 	Bitcoin Helper 0.12
+Bitcoin Helper 0.12
 
-/*
-	Bitcoin Helper Original Up to 0.11 - Copyright 2012, Jordan Hall
-	http://jordanhall.co.uk/projects/bitcoin-helper-php-bitcoin-class/
 
-	Bitcoin Helper 0.12 and Up - Copyright 2014, GrnLight.net
-	http://grnlight.net
+Bitcoin Helper Original Up to 0.11 - Copyright 2012, Jordan Hall
+
+http://jordanhall.co.uk/projects/bitcoin-helper-php-bitcoin-class/
+
+
+Bitcoin Helper 0.12 and Up - Copyright 2014, GrnLight.net
+
+http://grnlight.net
+
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -19,4 +23,4 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-*/
+
