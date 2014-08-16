@@ -26,3 +26,12 @@ http://grnlight.net
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+-------------------------------------------------------------------------
+
+To Do
+-----
+1. Create user defined variables to change certain settings in the program.
+
+1a. **$cache_refresh_time** - How long to refresh the cache file with bitcoin information.
+
+1b. **$weighted_timeframe** - Choose how long to average the price of bitcoins, choose between 24 hours, 7 days, and 30 days.
